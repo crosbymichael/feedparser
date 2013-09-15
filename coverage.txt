@@ -1,0 +1,9 @@
+
+github.com/crosbymichael/feedparser/atom.go	 WriteAtomFeed		 100.00% (2/2)
+github.com/crosbymichael/feedparser/rss.go	 WriteRssFeed		 100.00% (2/2)
+github.com/crosbymichael/feedparser/rss.go	 Item.PubDateTime	 100.00% (1/1)
+github.com/crosbymichael/feedparser/rss.go	 Channel.PubDateTime	 100.00% (1/1)
+github.com/crosbymichael/feedparser/atom.go	 ParseAtomFeed		 80.00% (4/5)
+github.com/crosbymichael/feedparser/rss.go	 ParseRssFeed		 80.00% (4/5)
+github.com/crosbymichael/feedparser		 -------------------	 87.50% (14/16)
+
